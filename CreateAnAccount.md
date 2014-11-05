@@ -25,5 +25,5 @@ To edit this file, scroll back up to the top of the screen and select the "pen" 
 3) Walker, Tyler: tmwalker631   
 4) Mark, Schlies: Mschlies   
 5) West, Joseph: Failord_Studious   
-6)Wiles, Stephen: swiles
+9) Anderson, Kristian: krisander32
 ## Go to [Getting Started With Scratch](GettingStartedWithScratch.md)
