@@ -20,9 +20,9 @@ Please put your name (username): [Link to your Project]
 13) Schlies, Mark (Mschlies):http://scratch.mit.edu/projects/32391192/     
 14) Basham, Chris (Archrath) :  http://scratch.mit.edu/projects/32743802/     
 15) Kulkarni,Michael(mkulkarnigmail):http://scratch.mit.edu/projects/32391718/      
-16) Siders, Connor (csiders): http://scratch.mit.edu/projects/32388770/   
-17) Wiles, Stephen (swiles): http://scratch.mit.edu/projects/32392960/          
-18) Solt, Terry (Tsolt): http://scratch.mit.edu/projects/32744310/  
+16) Anderson, Kristian (krisander32) :  http://scratch.mit.edu/projects/32392336/
+17)   
+18)   
 19)   
 20)   
 21)
@@ -41,12 +41,12 @@ Please put your name (username): [Link to your Project]
 7) Walker, Tyler (tmwalker631) : http://scratch.mit.edu/projects/32741252/   
 8) Wiles, Stephen (swiles) :  http://scratch.mit.edu/projects/32739472/      
 9) Thomas, White (Mehiswow): http://scratch.mit.edu/projects/32739586/     
-10) Filipiak, Chance (CFilipiak): http://scratch.mit.edu/projects/32741862/   
-11) Schlies, Mark (Mschlies): http://scratch.mit.edu/projects/32747746/      
-12) Basham, Chris (Archrath) :  http://scratch.mit.edu/projects/32750044/       
-13) Holstine, Lucas (lholstine): http://scratch.mit.edu/projects/32740540/       
-14) Lamb, Devan (DMLamb):  http://scratch.mit.edu/projects/32746056/    
-15) Siders, Connor (csiders): http://scratch.mit.edu/projects/32744940/     
+10)   
+11)   
+12)   
+13)   
+14)   
+15)   
 16)   
 17)   
 18)   
